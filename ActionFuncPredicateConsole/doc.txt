@@ -1,0 +1,6 @@
+
+
+
+/* 
+    In C#, Action, Func, and Predicate are delegate types provided by the language to encapsulate method references. 
+*/

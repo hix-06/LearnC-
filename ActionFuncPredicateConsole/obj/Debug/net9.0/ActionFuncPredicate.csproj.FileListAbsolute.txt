@@ -1,0 +1,14 @@
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.exe
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.deps.json
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.runtimeconfig.json
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.dll
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\bin\Debug\net9.0\ActionFuncPredicate.pdb
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.AssemblyInfoInputs.cache
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.AssemblyInfo.cs
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.csproj.CoreCompileInputs.cache
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.dll
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\refint\ActionFuncPredicate.dll
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.pdb
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ActionFuncPredicate.genruntimeconfig.cache
+c:\Users\Ahmed\Desktop\projects\WarmTheSharp\ActionFuncPredicate\obj\Debug\net9.0\ref\ActionFuncPredicate.dll
