@@ -1,0 +1,14 @@
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\bin\Debug\net9.0\DataStructuresConsole.exe
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\bin\Debug\net9.0\DataStructuresConsole.deps.json
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\bin\Debug\net9.0\DataStructuresConsole.runtimeconfig.json
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\bin\Debug\net9.0\DataStructuresConsole.dll
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\bin\Debug\net9.0\DataStructuresConsole.pdb
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\DataStructuresConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\DataStructuresConsole.AssemblyInfoInputs.cache
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\DataStructuresConsole.AssemblyInfo.cs
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\DataStructuresConsole.csproj.CoreCompileInputs.cache
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\DataStructuresConsole.dll
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\refint\DataStructuresConsole.dll
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\DataStructuresConsole.pdb
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\DataStructuresConsole.genruntimeconfig.cache
+c:\Users\Ahmed\Desktop\projects\DataStructuresConsole\obj\Debug\net9.0\ref\DataStructuresConsole.dll

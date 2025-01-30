@@ -1,0 +1,14 @@
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\bin\Debug\net9.0\ExtensionMethodsConsole.exe
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\bin\Debug\net9.0\ExtensionMethodsConsole.deps.json
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\bin\Debug\net9.0\ExtensionMethodsConsole.runtimeconfig.json
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\bin\Debug\net9.0\ExtensionMethodsConsole.dll
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\bin\Debug\net9.0\ExtensionMethodsConsole.pdb
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ExtensionMethodsConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ExtensionMethodsConsole.AssemblyInfoInputs.cache
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ExtensionMethodsConsole.AssemblyInfo.cs
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ExtensionMethodsConsole.csproj.CoreCompileInputs.cache
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ExtensionMethodsConsole.dll
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\refint\ExtensionMethodsConsole.dll
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ExtensionMethodsConsole.pdb
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ExtensionMethodsConsole.genruntimeconfig.cache
+c:\Users\Ahmed\Desktop\projects\ExtensionMethodsConsole\obj\Debug\net9.0\ref\ExtensionMethodsConsole.dll

@@ -1,0 +1,5 @@
+
+/*
+    - Extension methods are declared as static methods in a static class.
+    - The first parameter in the method must include the this keyword followed by the type to be extended.
+*/
